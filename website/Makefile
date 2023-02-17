@@ -19,6 +19,7 @@ all: $(HTML)
 	--citeproc \
 	-M date="$$(LANG=en_us_88591 date '+%B  %e, %Y')" \
 	-H head.html \
+	--shift-heading-level-by=-1 \
 	 $< | tidy  --doctype html5 --tidy-mark no --wrap 0 --hide-comments yes --output-xhtml no --output-html true --quiet yes --show-warnings no -o $@
 
 clean:
