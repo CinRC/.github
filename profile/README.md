@@ -29,6 +29,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 ## Tools
 
 - IRDC-CCSK, a Java implementation of distributed reversible computation verification, is hosted [on gihtub](https://github.com/CinRC/IRDC-CCSK).
+- A collection of small exercises about CSS and its reversible declensions is hosted [on github](https://github.com/CinRC/Exercises-on-CCS-CCSK-and-RCCS)
 
 ## Miscellaneous
 <!--{.unlisted}-->
