@@ -1,0 +1,1 @@
+/home/caubert/travail/git/cinrc_info/website/index.md
