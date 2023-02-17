@@ -30,7 +30,8 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 - IRDC-CCSK, a Java implementation of distributed reversible computation verification, is hosted [on gihtub](https://github.com/CinRC/IRDC-CCSK).
 
-## Miscellaneous{.unlisted}
+## Miscellaneous
+<!--{.unlisted}-->
 
 * Contact: [caubert@augusta.edu](mailto:caubert@augusta.edu)
 * Created with [debian](https://www.debian.org/), [pandoc](https://pandoc.org/) and [latex](https://www.latex-project.org/).
