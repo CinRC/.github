@@ -2,10 +2,8 @@
 
 ## Presentation
 
-CinRC stands for "Concurrency In Reversible Computations".
+The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
 It is an international collaborative project funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242786), taking primarily place in the [Augusta University's School of Computer Science](https://www.augusta.edu/ccs/).
-
-The project aims at improving current specification languages for concurrent, reversible programs and protocols.
 
 ## Members
 
