@@ -5,7 +5,7 @@
 The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
 It is an international collaborative project funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242786), taking primarily place in the [Augusta University's School of Computer Science](https://www.augusta.edu/ccs/).
 
-The project is currently actively looking for candidates for post-doc and PhD positions: please, refer to [this ad](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html) for more information. 
+[The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).
 
 ## Members
 
