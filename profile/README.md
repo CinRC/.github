@@ -20,11 +20,25 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 ## Papers
 
+### Accepted
+
+- Clément Aubert. Replications in Reversible Concurrent Calculi (Short paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
+
+- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
+
+### Major Revision
+
+- Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2023. [⟨hal-03950347⟩](https://hal.science/hal-03950347v1). Submitted to [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/), major revision required.
+
+The revision essentially requires to clarify the connection between the general principle sketched in the beginning of the paper and its articulation to CSSK.
+I look forward to clarifying this question and to refer to the related approaches suggested by the reviewers.
+
+
+<!--
+
 ### Submitted
 
-- Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2023. [⟨hal-03950347⟩](https://hal.science/hal-03950347v1). Submitted to [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
-- Clément Aubert. Replications in Reversible Concurrent Calculi (Short paper). Submitted to [RC 2023](https://reversible-computation-2023.github.io/site/).
-- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper).  Submitted to [RC 2023](https://reversible-computation-2023.github.io/site/).
+-->
 
 ## Tools
 
