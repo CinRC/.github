@@ -23,8 +23,9 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 ### Accepted
 
 - Clément Aubert. Replications in Reversible Concurrent Calculi (Short paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
+- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper). [⟨hal-04035458⟩](https://hal.science/hal-04035458v1). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
 
-- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
+
 
 ### Major Revision
 
