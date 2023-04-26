@@ -1,11 +1,14 @@
 # Concurrency In Reversible Computations
 
+☛☛ [The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).☚☚
+
 ## Presentation
 
 The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
 It is an international collaborative project funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242786), taking primarily place in the [Augusta University's School of Computer Science](https://www.augusta.edu/ccs/).
 
-[The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).
+Augusta University wrote [an article presenting the project](https://jagwire.augusta.edu/augusta-university-school-of-computer-and-cyber-sciences-receives-national-science-foundation-grant-for-international-research-project/).
+
 
 ## Members
 
@@ -24,8 +27,6 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 - Clément Aubert. Replications in Reversible Concurrent Calculi (Short paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
 - Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper). [⟨hal-04035458⟩](https://hal.science/hal-04035458v1). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
-
-
 
 ### Major Revision
 
