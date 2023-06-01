@@ -3,7 +3,8 @@
 TL;DR
 -------
 
-Candidates interested in a PhD in formal and algebraic methods for concurrent, reversible computation in Augusta University (Georgia, USA), starting in January 2024 are invited to apply by June 1st, 2023. A post-doctoral position will open shortly after, but interested candidates should feel encouraged to reach out to <clement.aubert@math.cnrs.fr> informally.
+Candidates interested in a PhD in formal and algebraic methods for concurrent, reversible computation in Augusta University (Georgia, USA), starting in January 2024 are invited to apply by June 1st, 2023 (applications will be considered until the position is filled).
+A post-doctoral position will open shortly after, but interested candidates should feel encouraged to reach out to <clement.aubert@math.cnrs.fr> informally.
 
 In addition to accepting applications, I will be very happy to respond to informal inquiries about any aspect of the position, from technical ones to ones about life in the US "Garden City".
 
