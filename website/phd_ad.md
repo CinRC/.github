@@ -1,5 +1,7 @@
 # PhD and Post-doctoral Positions Available in Formal Methods for Reversible Concurrent Calculi
 
+⚠️ **Those positions have been filled and are no longer available.** ⚠️
+
 TL;DR
 -------
 

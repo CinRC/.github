@@ -1,6 +1,8 @@
 # Concurrency In Reversible Computations
 
+<!--
 ☛☛ [The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).☚☚
+-->
 
 ## Presentation
 
@@ -20,6 +22,8 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
+
+Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and will join the project in January 2024 and July 2024, respectively.
 
 ## Papers
 
