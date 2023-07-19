@@ -9,7 +9,7 @@
 The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
 It is an international collaborative project funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242786), taking primarily place in the [Augusta University's School of Computer Science](https://www.augusta.edu/ccs/).
 
-Augusta University wrote [an article presenting the project](https://jagwire.augusta.edu/augusta-university-school-of-computer-and-cyber-sciences-receives-national-science-foundation-grant-for-international-research-project/), and our local television station [aired a short segment](https://www.wrdw.com/2023/05/12/augusta-university-receives-grant-cyber-research-project/) about it as well.
+Augusta University wrote [an article presenting the project](https://jagwire.augusta.edu/augusta-university-professor-receives-national-science-foundation-grant-for-groundbreaking-research/), and our local television station [aired a short segment](https://www.wrdw.com/2023/05/12/augusta-university-receives-grant-cyber-research-project/) about it as well.
 
 
 ## Members
