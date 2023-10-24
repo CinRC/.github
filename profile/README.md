@@ -23,22 +23,26 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and will join the project in January 2024 and July 2024, respectively.
+Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in January 2024 and July 2024, respectively.
 
 ## Papers
 
+<!--
 ### Accepted
+-->
 
-- Clément Aubert. Replications in Reversible Concurrent Calculi (Short paper). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
-- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus (tool demonstration paper). [⟨hal-04035458⟩](https://hal.science/hal-04035458v1). Accepted to [RC 2023](https://reversible-computation-2023.github.io/site/accepted.html).
+- Clément Aubert. Replications in Reversible Concurrent Calculi. [RC 2023](https://link.springer.com/chapter/10.1007/978-3-031-38100-3_2), [⟨hal-04174437⟩](https://hal.science/hal-04174437)
+- Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus. [RC 2023](https://doi.org/10.1007/978-3-031-38100-3_13),  [⟨hal-04035458⟩](https://hal.science/hal-04035458v1).
+- Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2023. [JLAMP](http://dx.doi.org/10.1016/j.jlamp.2023.100924), [⟨hal-03950347⟩](https://hal.science/hal-03950347v1).
 
+<!--
 ### Major Revision
 
 - Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2023. [⟨hal-03950347⟩](https://hal.science/hal-03950347v1). Submitted to [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/), major revision required.
 
 The revision essentially requires to clarify the connection between the general principle sketched in the beginning of the paper and its articulation to CSSK.
 I look forward to clarifying this question and to refer to the related approaches suggested by the reviewers.
-
+-->
 
 <!--
 
