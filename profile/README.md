@@ -17,13 +17,16 @@ Augusta University wrote [an article presenting the project](https://jagwire.aug
 This project is carried out by [Clément Aubert](https://spots.augusta.edu/caubert/), with the help of the following collaborators (in alphabetical order):
 
 - [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
+- Logan Beatty (Augusta University, USA),
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, Italy),
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
+- [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) (Imperial College, United Kingdom),
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
+- [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in January 2024 and July 2024, respectively.
+Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in May and July 2024, respectively.
 
 ## Papers
 
