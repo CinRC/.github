@@ -4,6 +4,10 @@
 ☛☛ [The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).☚☚
 -->
 
+## News
+
+- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
+
 ## Presentation
 
 The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
