@@ -20,8 +20,8 @@ Augusta University wrote [an article presenting the project](https://jagwire.aug
 
 This project is carried out by [Clément Aubert](https://spots.augusta.edu/caubert/), with the help of the following collaborators (in alphabetical order):
 
-- [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
 - Logan Beatty (Augusta University, USA),
+- [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, Italy),
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
