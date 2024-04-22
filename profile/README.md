@@ -6,7 +6,7 @@
 
 ## News
 
-- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
+- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024! [Her itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
 
 ## Presentation
 
@@ -30,7 +30,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in May and July 2024, respectively.
+Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in August and July 2024, respectively.
 
 ## Papers
 
