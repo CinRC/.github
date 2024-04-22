@@ -6,7 +6,8 @@
 
 ## News
 
-- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024! [Her itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
+- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
+- (04/2024) Dr. Medić’s [itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
 
 ## Presentation
 
