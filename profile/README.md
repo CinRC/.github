@@ -4,6 +4,11 @@
 ☛☛ [The project is currently actively looking for candidates for post-doc and PhD positions](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html).☚☚
 -->
 
+## News
+
+- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
+- (04/2024) Dr. Medić’s [itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
+
 ## Presentation
 
 The CinRC project aims at improving current specification languages for concurrent, reversible programs and protocols.
@@ -16,11 +21,14 @@ Augusta University wrote [an article presenting the project](https://jagwire.aug
 
 This project is carried out by [Clément Aubert](https://spots.augusta.edu/caubert/), with the help of the following collaborators (in alphabetical order):
 
+- Logan Beatty (Augusta University, USA),
 - [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, Italy),
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
+- [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) (Imperial College, United Kingdom),
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
+- [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
 [Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in July 2024.
