@@ -6,8 +6,9 @@
 
 ## News
 
-- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
+- (05/2024) I have [a PhD position available](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html) (dead-line: June 10th), and I am excited to prepare for my [visit to the Norwegian Academy of Science and Letters](https://secureconcur.academy/).
 - (04/2024) Dr. Medić’s [itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
+- (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
 
 ## Presentation
 
