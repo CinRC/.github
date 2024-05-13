@@ -23,7 +23,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-Quan Long and [Deivid Vale](https://deividrvale.github.io/) were offered the PhD and post-doctoral positions, respectively, and should join the project in January 2024 and July 2024, respectively.
+[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in July 2024.
 
 ## Papers
 
