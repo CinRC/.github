@@ -52,7 +52,6 @@ More information
    AU PhD Program: <https://www.augusta.edu/ccs/phd-ccs.php>  
    AU International and Postdoctoral Services Office: <https://www.augusta.edu/ipso/>  
    AU Graduate Assistantship: <https://www.augusta.edu/gradschool/assistantships.php>  
-   Cultural Life in Augusta: <https://www.sampleaugusta.com/>
 
 -- 
     Clément Aubert, Assistant Professor of Computer Science,
