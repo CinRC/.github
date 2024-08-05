@@ -28,11 +28,12 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
 - [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) (Imperial College, United Kingdom),
+- Nate Schwartz (Augusta University, USA),
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
 - [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in July 2024.
+[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in October 2024.
 
 ## Papers
 
@@ -58,6 +59,14 @@ I look forward to clarifying this question and to refer to the related approache
 ### Submitted
 
 -->
+
+## Abstract
+
+- Clément Aubert, Nate Schwartz. [Reversing Abstract Machines in Lambda Calculus](https://scholarlycommons.augusta.edu/server/api/core/bitstreams/f5c49e06-313b-4017-a893-8d28d0493b06/content#%5B%7B%22num%22%3A172%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitH%22%7D%2C700%5D). 2024. [The Arsenal's Summer Scholars Program 2024 Special Issue](https://hdl.handle.net/10675.2/625310).
+
+## Poster
+
+- _Reversing Abstract Machines in Lambda Calculus_ -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php).
 
 ## Tools
 
