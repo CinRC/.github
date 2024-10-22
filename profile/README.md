@@ -6,6 +6,7 @@
 
 ## News
 
+- (10/2024) Our pre-print with [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) is [available on arXiv](http://arxiv.org/abs/2410.14699). Also, Nate Schwartz will be presenting our work on reversible $\lambda$-calculus at the [2025 Joint Mathematics Meetings](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45958) in Seattle, WA.
 - (05/2024) I have [a PhD position available](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html) (dead-line: June 10th), and I am excited to prepare for my [visit to the Norwegian Academy of Science and Letters](https://secureconcur.academy/).
 - (04/2024) Dr. Medić’s [itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
 - (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
@@ -33,7 +34,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in October 2024.
+[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in December 2024.
 
 ## Papers
 
