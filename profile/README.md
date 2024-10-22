@@ -67,7 +67,7 @@ I look forward to clarifying this question and to refer to the related approache
 
 ## Poster
 
-- [_Reversing Abstract Machines in Lambda Calculus_](https://spots.augusta.edu/caubert/research/cinrc/posters/Schwartz.Poster.SSP2024.pdf) -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php).
+- [_Reversing Abstract Machines in Lambda Calculus_](https://spots.augusta.edu/caubert/research/cinrc/posters/Schwartz.Poster.SSP2024.pdf) -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php) and at the [2025 Joint Mathematics Meetings](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_friday.html#2314:AMSPMEPOS1)
 
 ## Tools
 
