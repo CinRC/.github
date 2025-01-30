@@ -1,1 +1,1 @@
-../../../git/cinrc_info/profile/README.md
+../profile/README.md
