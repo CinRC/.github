@@ -6,6 +6,7 @@
 
 ## News
 
+- (10/2024) Our pre-print with [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) is [available on arXiv](http://arxiv.org/abs/2410.14699). Also, Nate Schwartz will be presenting our work on reversible $\lambda$-calculus at the [2025 Joint Mathematics Meetings](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/45958) in Seattle, WA.
 - (05/2024) I have [a PhD position available](https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html) (dead-line: June 10th), and I am excited to prepare for my [visit to the Norwegian Academy of Science and Letters](https://secureconcur.academy/).
 - (04/2024) Dr. Medić’s [itinerary](https://spots.augusta.edu/caubert/2024_Medic_Visit/) is on-line!
 - (01/2024) I am extremely glad to report that [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) will be invited to [Augusta University](https://www.augusta.edu/) April 20--29, 2024!
@@ -24,6 +25,8 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 - Logan Beatty (Augusta University, USA),
 - [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
+- Gabriele Cecilia (Augusta University, USA),
+- [Jean Krivine](https://www.irif.fr/~jkrivine/) (Université Paris Cité, France),
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, Italy),
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
 - [Jorge A. Pérez](https://www.jperez.nl/) (University of Groningen, The Netherlands),
@@ -33,7 +36,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and should join the project in October 2024.
+[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and will join the project in March 2025.
 
 ## Papers
 
@@ -62,11 +65,11 @@ I look forward to clarifying this question and to refer to the related approache
 
 ## Abstract
 
-- Clément Aubert, Nate Schwartz. [Reversing Abstract Machines in Lambda Calculus](https://scholarlycommons.augusta.edu/server/api/core/bitstreams/f5c49e06-313b-4017-a893-8d28d0493b06/content#%5B%7B%22num%22%3A172%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitH%22%7D%2C700%5D). 2024. [The Arsenal's Summer Scholars Program 2024 Special Issue](https://hdl.handle.net/10675.2/625310).
+- Clément Aubert, Nate Schwartz. [Reversing Abstract Machines in Lambda Calculus]( https://hdl.handle.net/10675.2/625527). 2024. [The Arsenal's Summer Scholars Program 2024 Special Issue](https://scholarlycommons.augusta.edu/collections/ada5a959-a65d-450a-98e1-da62696f17f3).
 
 ## Poster
 
-- [_Reversing Abstract Machines in Lambda Calculus_](https://spots.augusta.edu/caubert/research/cinrc/posters/Schwartz.Poster.SSP2024.pdf) -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php).
+- [_Reversing Abstract Machines in Lambda Calculus_](https://spots.augusta.edu/caubert/research/cinrc/posters/Schwartz.Poster.SSP2024.pdf) -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php) and at the [2025 Joint Mathematics Meetings](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_friday.html#2314:AMSPMEPOS1)
 
 ## Tools
 
