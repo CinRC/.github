@@ -29,7 +29,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 - Logan Beatty (Augusta University, USA),
 - [Peter Browning](https://peterjbrowning.com/) (Augusta University, USA),
-- Gabriele Cecilia (Augusta University, USA),
+- [Gabriele Cecilia](https://gabrielececilia.github.io/) (Augusta University, USA),
 - [Jean Krivine](https://www.irif.fr/~jkrivine/) (Université Paris Cité, France),
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, Italy),
 - [Claudio Antares Mezzina](https://sites.google.com/view/claudio-mezzina) (University of Urbino, Italy),
@@ -38,9 +38,9 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - Nate Schwartz (Augusta University, USA),
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy),
 - [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) (University of Leicester, United Kingdom),
+- [Deivid Vale](https://deividrvale.github.io/) (Augusta University, USA),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-[Deivid Vale](https://deividrvale.github.io/) was offered the post-doctoral position and will join the project in March 2025.
 
 ## Papers
 
@@ -48,6 +48,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 ### Accepted
 -->
 
+- Clément Aubert, [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Independence and Causality in the Reversible Concurrent Setting. [RC 2025](https://reversible-computation-2025.github.io/) (to appear).
 - Clément Aubert. Replications in Reversible Concurrent Calculi. [RC 2023](https://link.springer.com/chapter/10.1007/978-3-031-38100-3_2), [⟨hal-04174437⟩](https://hal.science/hal-04174437)
 - Clément Aubert and Peter Browning. Implementation of Reversible Distributed Calculus. [RC 2023](https://doi.org/10.1007/978-3-031-38100-3_13),  [⟨hal-04035458⟩](https://hal.science/hal-04035458v1).
 - Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2024. [JLAMP](http://dx.doi.org/10.1016/j.jlamp.2023.100924), [⟨hal-03950347⟩](https://hal.science/hal-03950347v1).
