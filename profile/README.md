@@ -6,6 +6,9 @@
 
 ## News
 
+- (5/2025) Publication and travels upcoming!
+     - [Gabriele Cecilia](https://gabrielececilia.github.io/) will be presenting his work on formalization of reversible concurrent calculus in Beluga at [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers).
+     - [Clément Aubert](https://aubert.perso.math.cnrs.fr/) will attend the same week the [CORSE event](https://www.discotec.org/2025/satellite/corse).
 - (4/2025) An update is overdue! In the last months,
      - [Gabriele Cecilia](https://gabrielececilia.github.io/) started his PhD at Augusta University,
      - [Deivid Vale](https://deividrvale.github.io/) joined the project,
@@ -41,13 +44,13 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 - [Deivid Vale](https://deividrvale.github.io/) (Augusta University, USA),
 - [Daniele Varacca](https://www.lacl.fr/~dvaracca/) (Université Paris Est - Créteil, France).
 
-
 ## Papers
 
 <!--
 ### Accepted
 -->
 
+- [Gabriele Cecilia](https://gabrielececilia.github.io/). A Formalization of the Reversible Concurrent Calculus CCSKP in Beluga. [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers) (to appear).
 - Clément Aubert, [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Independence and Causality in the Reversible Concurrent Setting. [RC 2025](https://reversible-computation-2025.github.io/) (to appear).
 - Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2024. [JLAMP](http://dx.doi.org/10.1016/j.jlamp.2023.100924), [⟨hal-03950347⟩](https://hal.science/hal-03950347v1).
 - Clément Aubert. Replications in Reversible Concurrent Calculi. [RC 2023](https://link.springer.com/chapter/10.1007/978-3-031-38100-3_2), [⟨hal-04174437⟩](https://hal.science/hal-04174437)
