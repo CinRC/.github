@@ -12,6 +12,7 @@
           - [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](https://www.discotec.org/2025/satellite/ice_preproceedings/A_Formalization_of_the_Reversible_Concurrent_Calculus_CCSKP_in_Beluga.pdf) at [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers),
           - His poster at  [DisCoTec 2025's Young Researchers' Event](https://www.discotec.org/2025/satellite/yr-posters),
      - [Clément Aubert](https://aubert.perso.math.cnrs.fr/) [presented](https://aubert.perso.math.cnrs.fr/#exp_CORSE) *Bisimulations and Reversibility*, a joint work with [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) at [CORSE](https://www.discotec.org/2025/satellite/corse)
+     - Finally, in a couple of weeks (on July 3rd), [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) will be presenting *Independence and Causality in the Reversible Concurrent Setting* at [RC 2025](https://reversible-computation-2025.github.io/).
 - (5/2025) Publication and travels upcoming!
      - [Gabriele Cecilia](https://gabrielececilia.github.io/) will be presenting his work on formalization of reversible concurrent calculus in Beluga at [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers).
      - [Clément Aubert](https://aubert.perso.math.cnrs.fr/) will attend the same week the [CORSE event](https://www.discotec.org/2025/satellite/corse).
