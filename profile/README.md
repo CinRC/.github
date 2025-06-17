@@ -10,7 +10,7 @@
      - [Jean Krivine](https://www.irif.fr/~jkrivine/) will be presenting [*Reversible computations are computations*](https://www.coalg.org/calco-mfps-2025/pre-proceedings/MFPS25-29.pdf) at [MFPS 2025](https://www.coalg.org/calco-mfps-2025/),
      - [Gabriele Cecilia](https://gabrielececilia.github.io/) will be presenting
           - [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](https://www.discotec.org/2025/satellite/ice_preproceedings/A_Formalization_of_the_Reversible_Concurrent_Calculus_CCSKP_in_Beluga.pdf) at [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers),
-          - His poster at  [DisCoTec 2025's Young Researchers' Event](https://www.discotec.org/2025/satellite/yr-posters),
+          - [His poster](https://spots.augusta.edu/caubert/research/cinrc/posters/Cecilia.Poster.Discotec2025.pdf) at [DisCoTec 2025's Young Researchers' Event](https://www.discotec.org/2025/satellite/yr-posters),
      - [Clément Aubert](https://aubert.perso.math.cnrs.fr/) [presented](https://aubert.perso.math.cnrs.fr/#exp_CORSE) *Bisimulations and Reversibility*, a joint work with [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) at [CORSE](https://www.discotec.org/2025/satellite/corse)
      - Finally, in a couple of weeks (on July 3rd), [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) will be presenting *Independence and Causality in the Reversible Concurrent Setting* at [RC 2025](https://reversible-computation-2025.github.io/).
 - (5/2025) Publication and travels upcoming!
@@ -70,7 +70,7 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 
 - Clément Aubert. The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2023. [⟨hal-03950347⟩](https://hal.science/hal-03950347v1). Submitted to [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/), major revision required.
 
-The revision essentially requires to clarify the connection between the general principle sketched in the beginning of the paper and its articulation to CSSK.
+The revision essentially requires to clarify the connection between the general principle sketched in the beginning of the paper and its articulation to CCSK.
 I look forward to clarifying this question and to refer to the related approaches suggested by the reviewers.
 -->
 
@@ -87,11 +87,13 @@ I look forward to clarifying this question and to refer to the related approache
 ## Poster
 
 - [_Reversing Abstract Machines in Lambda Calculus_](https://spots.augusta.edu/caubert/research/cinrc/posters/Schwartz.Poster.SSP2024.pdf) -- Presented by Nate Schwartz at Augusta University's [2024 Summer Scholars Program](https://www.augusta.edu/curs/summer-scholars.php) and at the [2025 Joint Mathematics Meetings](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_friday.html#2314:AMSPMEPOS1)
+- [_Formal Methods For Reversible Concurrent Calculi_](https://spots.augusta.edu/caubert/research/cinrc/posters/Cecilia.Poster.Discotec2025.pdf) -- Presented by [Gabriele Cecilia](https://gabrielececilia.github.io/) at [DisCoTec 2025's Young Researchers' Event](https://www.discotec.org/2025/satellite/yr-posters).
+
 
 ## Tools
 
 - IRDC-CCSK, a Java implementation of distributed reversible computation verification, is hosted [on github](https://github.com/CinRC/IRDC-CCSK).
-- A collection of small exercises about CSS and its reversible declensions is hosted [on github](https://github.com/CinRC/Exercises-on-CCS-CCSK-and-RCCS)
+- A collection of small exercises about CCS and its reversible declensions is hosted [on github](https://github.com/CinRC/Exercises-on-CCS-CCSK-and-RCCS)
 
 ## Miscellaneous
 <!--{.unlisted}-->
