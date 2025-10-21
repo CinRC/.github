@@ -6,6 +6,7 @@
 
 ## News
 
+- (10/2025) Very happy to be co-chairing [Reversible Computation 2026](https://reversible-computation.github.io/) with [Luca Roversi](http://www.di.unito.it/~rover/) and [Luca Paolini](http://www.di.unito.it/~paolini/) and  that [many, many excellent researchers](https://reversible-computation.github.io/pc/) accepted to be part of the program committee. I hope to see you in Torino in July!
 - (06/2025) It's presentation week!
      - [Jean Krivine](https://www.irif.fr/~jkrivine/) will be presenting [*Reversible computations are computations*](https://www.coalg.org/calco-mfps-2025/pre-proceedings/MFPS25-29.pdf) at [MFPS 2025](https://www.coalg.org/calco-mfps-2025/),
      - [Gabriele Cecilia](https://gabrielececilia.github.io/) will be presenting
@@ -32,7 +33,6 @@ It is an international collaborative project funded by the [NSF](https://www.nsf
 
 Augusta University wrote [an article presenting the project](https://jagwire.augusta.edu/augusta-university-professor-receives-national-science-foundation-grant-for-groundbreaking-research/), and our local television station [aired a short segment](https://www.wrdw.com/2023/05/12/augusta-university-receives-grant-cyber-research-project/) about it as well.
 
-
 ## Members
 
 This project is carried out by [Clément Aubert](https://spots.augusta.edu/caubert/), with the help of the following collaborators (in alphabetical order):
@@ -57,10 +57,10 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 ### Accepted
 -->
 
-- [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Bisimulations and Reversibility. [CORSE 2025](https://www.discotec.org/2025/satellite/corse) (to appear).
+- [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Bisimulations and Reversibility. [CORSE 2025](https://doi.org/10.1007/978-3-031-99717-4_3).
 - [Clément Aubert](https://spots.augusta.edu/caubert/), [Jean Krivine](https://www.irif.fr/~jkrivine/). Reversible computations are computations. [MFPS 2025](https://www.coalg.org/calco-mfps-2025/) (to appear).
-- [Gabriele Cecilia](https://gabrielececilia.github.io/). A Formalization of the Reversible Concurrent Calculus CCSKP in Beluga. [ICE 2025](https://www.discotec.org/2025/satellite/ice#accepted-papers) (to appear).
-- [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Independence and Causality in the Reversible Concurrent Setting. [RC 2025](https://reversible-computation-2025.github.io/) (to appear).
+- [Gabriele Cecilia](https://gabrielececilia.github.io/). A Formalization of the Reversible Concurrent Calculus CCSKP in Beluga. [ICE 2025](https://dx.doi.org/10.4204/EPTCS.425.5).
+- [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Independence and Causality in the Reversible Concurrent Setting. [RC 2025](https://doi.org/10.1007/978-3-031-97063-4_2).
 - [Clément Aubert](https://spots.augusta.edu/caubert/). The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2024. [JLAMP](http://dx.doi.org/10.1016/j.jlamp.2023.100924), [⟨hal-03950347⟩](https://hal.science/hal-03950347v1).
 - [Clément Aubert](https://spots.augusta.edu/caubert/). Replications in Reversible Concurrent Calculi. [RC 2023](https://link.springer.com/chapter/10.1007/978-3-031-38100-3_2), [⟨hal-04174437⟩](https://hal.science/hal-04174437)
 - [Clément Aubert](https://spots.augusta.edu/caubert/) and Peter Browning. Implementation of Reversible Distributed Calculus. [RC 2023](https://doi.org/10.1007/978-3-031-38100-3_13),  [⟨hal-04035458⟩](https://hal.science/hal-04035458v1).
