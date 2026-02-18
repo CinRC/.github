@@ -6,6 +6,13 @@
 
 ## News
 
+- (02/2026) Our article *Unlinkability and History Preserving Bisimilarity* with [Ross Horne](https://personal.cis.strath.ac.uk/ross.horne/), [Christian Johansen](https://christian.johansenresearch.info/) and [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/) has been accepted by *Computers & Security* and [is now available](https://doi.org/10.1016/j.cose.2025.104819) ([also as a pre-print](https://par.nsf.gov/biblio/10661290)). As we write,
+
+     > To the best of our knowledge, this is the first time that a compelling security application has emerged for [history-preserving bisimilarity], which was originally developed in the early days of concurrency theory as a process semantics to better capture concurrency.
+
+     Another interesting insight from this paper is that, for the first time, we report a violation of unlinkability that requires *bi*similarity and cannot simply be built using simple *si*milarity.
+
+     On the same topic,  [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/), [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/) and I hope to submit soon an extended version of our article published at [CORSE](https://www.discotec.org/2025/satellite/corse) covering the links between history-preserving bisimulation and reversibility.  
 - (10/2025) Very happy to be co-chairing [Reversible Computation 2026](https://reversible-computation.github.io/) with [Luca Roversi](http://www.di.unito.it/~rover/) and [Luca Paolini](http://www.di.unito.it/~paolini/) and  that [many, many excellent researchers](https://reversible-computation.github.io/pc/) accepted to be part of the program committee. I hope to see you in Torino in July!
 - (06/2025) It's presentation week!
      - [Jean Krivine](https://www.irif.fr/~jkrivine/) will be presenting [*Reversible computations are computations*](https://www.coalg.org/calco-mfps-2025/pre-proceedings/MFPS25-29.pdf) at [MFPS 2025](https://www.coalg.org/calco-mfps-2025/),
@@ -57,8 +64,10 @@ This project is carried out by [Clément Aubert](https://spots.augusta.edu/caube
 ### Accepted
 -->
 
+- [Clément Aubert](https://spots.augusta.edu/caubert/), [Ross Horne](https://personal.cis.strath.ac.uk/ross.horne/), [Christian Johansen](https://christian.johansenresearch.info/) and [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/). 
+Unlinkability and History Preserving Bisimilarity. [Computers & Security](https://doi.org/10.1016/j.cose.2025.104819) ([pre-print](https://par.nsf.gov/biblio/10661290)).
 - [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Bisimulations and Reversibility. [CORSE 2025](https://doi.org/10.1007/978-3-031-99717-4_3).
-- [Clément Aubert](https://spots.augusta.edu/caubert/), [Jean Krivine](https://www.irif.fr/~jkrivine/). Reversible computations are computations. [MFPS 2025](https://www.coalg.org/calco-mfps-2025/) (to appear).
+- [Clément Aubert](https://spots.augusta.edu/caubert/), [Jean Krivine](https://www.irif.fr/~jkrivine/). Reversible computations are computations. [MFPS 2025](https://doi.org/10.46298/entics.16677).
 - [Gabriele Cecilia](https://gabrielececilia.github.io/). A Formalization of the Reversible Concurrent Calculus CCSKP in Beluga. [ICE 2025](https://dx.doi.org/10.4204/EPTCS.425.5).
 - [Clément Aubert](https://spots.augusta.edu/caubert/), [Iain Phillips](http://www.doc.ic.ac.uk/~iccp/) and [Irek Ulidowski](https://www.cs.le.ac.uk/people/iulidowski/). Independence and Causality in the Reversible Concurrent Setting. [RC 2025](https://doi.org/10.1007/978-3-031-97063-4_2).
 - [Clément Aubert](https://spots.augusta.edu/caubert/). The Correctness of Concurrencies in (Reversible) Concurrent Calculi. 2024. [JLAMP](http://dx.doi.org/10.1016/j.jlamp.2023.100924), [⟨hal-03950347⟩](https://hal.science/hal-03950347v1).
