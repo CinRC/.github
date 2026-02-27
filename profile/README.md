@@ -6,6 +6,10 @@
 
 ## News
 
+- (03/2026) [Gabriele Cecilia](https://gabrielececilia.github.io/) gave a talk at Augusta University's Research Colloquium *for the second time*. The recordings are unfortunately not publicly available, but the slides are!
+     - [Formal Methods for Reversible Concurrent Calculi: an Introduction](https://gabrielececilia.github.io/talks/rcoll25-slides.pdf), 8 August 2025.
+     - [Formalizing the Metatheory of Programming Languages](https://gabrielececilia.github.io/talks/rcoll26-slides.pdf), 26 February 2026.
+  
 - (02/2026) Our article *Unlinkability and History Preserving Bisimilarity* with [Ross Horne](https://personal.cis.strath.ac.uk/ross.horne/), [Christian Johansen](https://christian.johansenresearch.info/) and [Sjouke Mauw](https://satoss.uni.lu/members/sjouke/) has been accepted by *Computers & Security* and [is now available](https://doi.org/10.1016/j.cose.2025.104819) ([also as a pre-print](https://par.nsf.gov/biblio/10661290)). As we write,
 
      > To the best of our knowledge, this is the first time that a compelling security application has emerged for [history-preserving bisimilarity], which was originally developed in the early days of concurrency theory as a process semantics to better capture concurrency.
